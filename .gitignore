@@ -60,5 +60,6 @@ typings/
 # next.js build output
 .next
 
-# 
+# Mas cosas
 package-lock.json
+helloWorld/package-lock.json
