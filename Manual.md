@@ -13,6 +13,11 @@ Realizamos los siguientes pasos:
     rabbitmq-server
     ~~~
 
+Podemos ver las colas que tenemos operativas:
+~~~
+rabbitmqctl list_queues
+~~~
+
 ## RabbitMQ - NodeJS
 
 ### Send
